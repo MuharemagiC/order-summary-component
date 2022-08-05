@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/MuharemagiC/nft-preview-card-component](https://github.com/MuharemagiC/nft-preview-card-component)
-- Live Site URL: [https://muharemagic.github.io/nft-preview-card-component/](https://muharemagic.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/MuharemagiC/order-summary-component](https://github.com/MuharemagiC/order-summary-component)
+- Live Site URL: [https://muharemagic.github.io/order-summary-component/](https://muharemagic.github.io/order-summary-component/)
 
 ## My process
 
